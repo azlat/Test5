@@ -1,6 +1,6 @@
 # Starter pipeline
 # Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
+# Add ste>'>><img src=x onerror=alert(1)>ps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
 trigger:
@@ -8,7 +8,7 @@ trigger:
 
 pool:
   vmImage: 'ubuntu-latest'
-
+>'>><img src=x onerror=alert(1)>
 steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
